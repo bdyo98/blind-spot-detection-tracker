@@ -1,0 +1,1 @@
+go to google and search yolo weight. download yolov3-spp and yoloweight
