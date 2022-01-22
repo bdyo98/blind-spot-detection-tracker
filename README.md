@@ -3,7 +3,7 @@ A. DEFINING THE PROJECT
 
 Project Name : Blind Spot Detection Tracker for E-hailing Riders (BSTeRs)
 <p align="center">
-  <img width="200" height="200" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/logobster.png">
+  <img width="400" height="200" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/logobster.png">
   <br>
 </p>
 
