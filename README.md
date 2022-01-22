@@ -1,8 +1,12 @@
-
+# Blind Spot Detection Tracker for E-hailing Riders (BSTeRs)
 A. DEFINING THE PROJECT
 
-
 Project Name : Blind Spot Detection Tracker for E-hailing Riders (BSTeRs)
+<p align="center">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/55174887/150628368-dc441e3d-01f0-4a7d-ab44-logobster.png">
+  <br>
+  Developed by Ad Astra Sdn. Bhd.
+</p>
 
 Lecturer : Prof. Dr. Goh Ong Sing
 
@@ -17,7 +21,7 @@ Lecturer : Prof. Dr. Goh Ong Sing
     <tbody>
         <tr>
             <td>Project Manager</td>
-            <td>Project Manager	Badrul Amin bin Nasarudin </td>
+            <td>Badrul Amin bin Nasarudin </td>
             <td>(B031910475)</td>
         </tr>
         <tr>
@@ -31,3 +35,5 @@ Lecturer : Prof. Dr. Goh Ong Sing
         </tr>
     </tbody>
 </table>
+
+
