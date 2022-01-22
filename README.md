@@ -3,9 +3,8 @@ A. DEFINING THE PROJECT
 
 Project Name : Blind Spot Detection Tracker for E-hailing Riders (BSTeRs)
 <p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/55174887/150628368-dc441e3d-01f0-4a7d-ab44-logobster.png">
+  <img width="200" height="200" src="https://github.com/Harith98/blind-spot-detection-tracker/blob/main/logobster.png">
   <br>
-  Developed by Ad Astra Sdn. Bhd.
 </p>
 
 Lecturer : Prof. Dr. Goh Ong Sing
